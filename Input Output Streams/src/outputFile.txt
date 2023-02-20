@@ -1,0 +1,6 @@
+Mani : 1
+Manimaran : 1
+at : 3
+maran : 1
+wipro : 3
+works : 3
